@@ -12,4 +12,4 @@ Countdown project - coundown days, hours and minutes, and showing the date and t
 
 # Live
 
-Cheki it out [Live](https://stankovics.github.io/JScountdown.github.io)
+Cheki it out [Live](https://stankovics.github.io/JScountdown/)
